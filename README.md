@@ -152,7 +152,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-Brown Beckley  
-Department of Medical Biochemistry, University of Ghana Medical School  
+Brown Beckley  or Prof. Adesola O. Olalekan
+Department of Medical Biochemistry, University of Ghana Medical School 
 Email: brownbeckley94@gmail.co or adesolaolalekan@unilag.edu.ng
 
