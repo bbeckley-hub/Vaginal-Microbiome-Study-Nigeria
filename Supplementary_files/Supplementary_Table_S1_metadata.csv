@@ -1,0 +1,8 @@
+sample_name,participant_id,time_point,hiv_status,art_months,age,ethnicity,marital_status,partners,education,family_planning,hiv_knowledge,medication
+01PND,PND02,First,Pos,0,25,Yoruba,single,1,Tertiary,Condom,yes,Immune booster
+02PND,PND02,Second,Pos,0,25,Yoruba,single,1,Tertiary,Condom,yes,none
+003PND,PND03,First,Pos,1,29,akwa ibom,widow,1,Secondary,none,no,none
+005PND,PND05,Second,Pos,0,25,Yoruba,single,1,Tertiary,Condom,yes,none
+006DO,PND03,Second,Pos,1,29,akwa ibom,widow,1,Secondary,none,no,none
+007NC,NC07,First,Neg,0,33,Yoruba,married,1,Tertiary,none,yes,none
+008NC,NC08,First,Neg,0,45,Yoruba,married,1,Tertiary,none,yes,antihypertensive

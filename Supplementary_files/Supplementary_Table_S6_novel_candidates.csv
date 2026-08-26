@@ -1,0 +1,40 @@
+ASV_ID,Top_BLAST_hit,Percent_identity,Alignment_length,E_value
+lcl|Query_6218450,uncultured bacterium,93.05,1529,0
+lcl|Query_6218451,uncultured bacterium,94.5,1529,0
+lcl|Query_4002056,uncultured bacterium,96.63,1529,0
+lcl|Query_4002069,uncultured bacterium,96.83,1509,0
+lcl|Query_3246284,uncultured bacterium,93.66,1507,0
+lcl|Query_139192,uncultured bacterium,96.35,1491,0
+lcl|Query_139196,uncultured bacterium,96.62,1491,0
+lcl|Query_139198,uncultured bacterium,96.42,1491,0
+lcl|Query_884468,Mobiluncus mulieris,92.67,1496,0
+lcl|Query_884477,Candidatus Lachnocurva vaginae,90.92,1649642,0
+lcl|Query_884482,uncultured bacterium,93.47,1484,0
+lcl|Query_884483,Candidatus Lachnocurva vaginae,96.14,1649642,0
+lcl|Query_2286092,uncultured bacterium,96.83,1520,0
+lcl|Query_2286095,Mobiluncus mulieris,91,1496,0
+lcl|Query_2286097,Hallella colorans,96.35,1491,0
+lcl|Query_2286098,Lactobacillus iners,94.91,1360266,0
+lcl|Query_2286099,uncultured bacterium,90.3,1507,0
+lcl|Query_2286105,Mobiluncus mulieris,93.82,1485,0
+lcl|Query_5012369,Candidatus Lachnocurva vaginae,96.36,1649642,0
+lcl|Query_5012372,uncultured bacterium,94.98,1507,0
+lcl|Query_5012374,uncultured bacterium,94.71,1507,0
+lcl|Query_5012375,Candidatus Lachnocurva vaginae,90.36,1649642,0
+lcl|Query_5012380,Candidatus Lachnocurva vaginae,94.83,1649642,0
+lcl|Query_5012382,Candidatus Lachnocurva vaginae,93.39,1649642,0
+lcl|Query_5012383,Gardnerella rara,94.73,1537,0
+lcl|Query_5012385,uncultured bacterium,95.39,1507,0
+lcl|Query_5012387,Candidatus Lachnocurva vaginae,95.11,1649642,0
+lcl|Query_5012388,Candidatus Lachnocurva vaginae,96.07,1649642,0
+lcl|Query_3039638,uncultured bacterium,94.27,1507,0
+lcl|Query_3039639,Candidatus Lachnocurva vaginae,93.79,1649642,0
+lcl|Query_3039641,uncultured bacterium,92.74,1525,0
+lcl|Query_3039642,uncultured bacterium,92.96,1362,0
+lcl|Query_3039644,Peptostreptococcus anaerobius,91.44,2151941,0
+lcl|Query_5660975,uncultured bacterium,89.7,1493,0
+lcl|Query_5660978,uncultured bacterium,92.39,1523,0
+lcl|Query_5660979,uncultured bacterium,95.47,1434,0
+lcl|Query_5660981,uncultured bacterium,91.39,1509,0
+lcl|Query_5660984,uncultured bacterium,93.26,1509,0
+lcl|Query_5660987,uncultured bacterium,93.46,1507,0
